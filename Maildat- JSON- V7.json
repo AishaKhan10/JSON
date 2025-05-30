@@ -19,7 +19,7 @@
                     "key": true,
                     "dataType": "A/N",
                     "description": [
-                        "A Job ID (the Mail.dat\u00AE serial number) should be unique compared to all other supplied Job IDs provided by the same source. The Job ID assigned to any new Mail.dat\u00AE is that transmission; it is the Historical Job ID that retains the initial ID throughout its existence. Job IDs are user managed, but must remain unique within one User License Code."
+                        "A Job ID (the Mail.dat\u00AE serial number) should be a unique compared to all other supplied Job IDs provided by the same source. The Job ID assigned to any new Mail.dat\u00AE is that transmission; it is the Historical Job ID that retains the initial ID throughout its existence. Job IDs are user managed, but must remain unique within one User License Code."
                     ],
                     "data": {
                         "type": "string",
